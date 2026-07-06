@@ -11,9 +11,9 @@ alongside my SOC Analyst → Detection Engineering career track.
 ## Progress Tracker
 
 ### Phase 1 — Core Syntax
-- [ ] Variables, data types, operators
-- [ ] Control flow (if/else, switch, loops)
-- [ ] Arrays and Strings
+- [x] Variables, data types, operators
+- [x] Control flow (if/else, switch, loops)
+- [x] Arrays and Strings
 - [ ] Methods and overloading
 
 ### Phase 2 — OOP Fundamentals
