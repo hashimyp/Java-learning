@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 public class Calculator {
 public static void main(String[] args) {
- System.out.println("Fast Calculator");
+ System.out.println("Fast Calculator for two numbers");
     Scanner sc = new Scanner(System.in);
     int i = sc.nextInt();
 int j = sc.nextInt();
