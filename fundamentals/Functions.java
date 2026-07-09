@@ -5,7 +5,7 @@ public class Functions {
          {
             System.out.println("Hello, " + name + "!");
             return; // return statement is used to exit the function 
-         }
+         } 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in); // create a Scanner object to read input
         System.out.print("Enter your name: "); // prompt the user to enter their name   
