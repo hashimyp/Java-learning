@@ -1,4 +1,4 @@
-package fundamentals;
+
 import java.util.Scanner;
 
 public class factorial {
@@ -21,7 +21,7 @@ public class factorial {
         Scanner sc = new Scanner(System.in);
         int n = sc.nextInt();
         fact(n);
-       
+        
         sc.close();  //close scanner
     }
 }
