@@ -10,7 +10,7 @@ int j = sc.nextInt();
 
     System.out.println("Enter the operation you want to perform: +, -, *, /");
     char op = sc.next().charAt(0);
-    int result;
+    int result; 
     switch (op) {
         case '+':
             result = i + j;
