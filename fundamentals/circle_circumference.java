@@ -6,7 +6,7 @@ public class circle_circumference {
         if (radius < 0) {
             System.out.println("Please enter a positive integer.");
             return (float) 0.0; // or 0.0f
-        }
+        }    
         final float PI = 3.14f; // constant value of pi
         float circumference = 2 * PI * radius; // using the constant
         return circumference;
