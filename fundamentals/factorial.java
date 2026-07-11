@@ -8,7 +8,7 @@ public class factorial {
             System.out.println("Please enter a positive integer.");     //if should be inside function and not outside
 
             return;    //exit fn
-        } 
+        }    
        
         int result = 1; 
         for (int i = n; i >= 1; i--) {   //F(n) = n * F(n-1)(=(i>=1))  //F(5) = 5 * F(4) = 5 * 4 * F(3) = 5 * 4 * 3 * F(2) = 5 * 4 * 3 * 2 * F(1) = 5 * 4 * 3 * 2 * 1
