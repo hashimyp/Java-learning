@@ -11,7 +11,7 @@ public class Functions {
         System.out.print("Enter your name: "); // prompt the user to enter their name   
         String name = sc.nextLine(); // read the user's input
         f1(name); // call the function f1 with the user's name as an argument
-        
+        sc.close();
     }
     
 }
