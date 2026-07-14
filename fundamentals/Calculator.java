@@ -43,6 +43,6 @@ int j = sc.nextInt();
             System.out.println("Invalid operation!");
             break;
     }
-  
+  sc.close();
 }
 }
